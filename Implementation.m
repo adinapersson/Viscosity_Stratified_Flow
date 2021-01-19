@@ -1,6 +1,6 @@
 %Code containing all methods of imposing inner boundary conditions
 
-%The SBP operators used,d2_2,d2_4,d2_6,d2_8andd2_10, are available in:
+%The SBP operators used,d2_2,d2_4,d2_6,d2_8 and d2_10, are available in:
 %https://github.com/scicompuu/sbplib
 
 syms a c x t mu
