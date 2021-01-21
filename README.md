@@ -1,4 +1,4 @@
-# Candidate-thesis
+# Simulation of Viscosity-Stratified Flow 
 Implementation of three methods; projection, SAT (Simultaneous Approximation Term) and a hybrid between projection and SAT,
 to impose boundary conditions for the viscous Burger's equation.
 
