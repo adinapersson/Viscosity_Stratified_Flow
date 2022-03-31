@@ -1,4 +1,5 @@
-# Simulation of Viscosity-Stratified Flow 
+# Simulation of Viscosity-Stratified Flow
+#### Link to DiVA: https://uu.diva-portal.org/smash/record.jsf?pid=diva2:1442587 
 Implementation of three methods; projection, SAT (Simultaneous Approximation Term) and a hybrid between projection and SAT,
 to impose boundary conditions for the viscous Burger's equation.
 
